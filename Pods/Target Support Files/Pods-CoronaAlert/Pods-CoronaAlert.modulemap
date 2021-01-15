@@ -1,0 +1,6 @@
+framework module Pods_CoronaAlert {
+  umbrella header "Pods-CoronaAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
